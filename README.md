@@ -55,7 +55,7 @@
         <!-- トップページ -->
         <div id="start-screen" class="quiz-card p-8 text-center fade-in">
             <div id="hero-image-container" class="mb-6 rounded-xl overflow-hidden h-64 bg-green-100 flex items-center justify-center">
-                <!-- GitHubでも確実に表示されるよう、高品質なガーデニング画像を直接指定 -->
+                <!-- GitHubでも確実に表示される高品質なガーデニング画像 -->
                 <img src="https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=800&q=80" 
                      alt="Gardening" 
                      class="w-full h-full object-cover"
